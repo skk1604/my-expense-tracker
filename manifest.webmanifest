@@ -1,7 +1,7 @@
 {
-  "name": "My Daily Expense Tracker",
+  "name": "My Expense Tracker",
   "short_name": "Expenses",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f2f6f5",
@@ -10,14 +10,12 @@
     {
       "src": "./icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "./icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
